@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagardidel
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React.JS
+- 👀 I’m a web developer(React.JS)
+- 🌱 Currently learning Next.JS
 - 📫 How to reach me ... ig-akm_sagar_ram56
 
 <!---
